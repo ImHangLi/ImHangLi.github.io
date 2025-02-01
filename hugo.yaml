@@ -52,7 +52,7 @@ params:
   label:
     text: "Hang Li"
     icon: "images/coding.png"
-    iconHeight: 27
+    iconHeight: 30
 
   # profile-mode
   profileMode:
