@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on Hang Li</title>
-    <link>http://localhost:1313/hangli/blogs/</link>
+    <link>http://localhost:1313/blogs/</link>
     <description>Recent content in Blogs on Hang Li</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Apr 2022 23:15:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/hangli/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to master Streamlit for Data Science</title>
-      <link>http://localhost:1313/hangli/blogs/how-to-master-streamlit-for-data-science/</link>
+      <link>http://localhost:1313/blogs/how-to-master-streamlit-for-data-science/</link>
       <pubDate>Fri, 08 Apr 2022 23:15:00 +0700</pubDate>
-      <guid>http://localhost:1313/hangli/blogs/how-to-master-streamlit-for-data-science/</guid>
+      <guid>http://localhost:1313/blogs/how-to-master-streamlit-for-data-science/</guid>
       <description>&lt;h1 id=&#34;preview&#34;&gt;Preview&lt;/h1&gt;
 &lt;h2 id=&#34;the-essential-streamlit-for-all-your-data-science-needs&#34;&gt;The essential Streamlit for all your data science needs&lt;/h2&gt;
 &lt;p&gt;To build a web app you’d typically use such Python web frameworks as Django and Flask. But the steep learning curve and the big time investment for implementing these apps present a major hurdle.&lt;/p&gt;
@@ -21,9 +21,9 @@
     </item>
     <item>
       <title>What Is Bioinformatics</title>
-      <link>http://localhost:1313/hangli/blogs/what-is-bioinformatics/</link>
+      <link>http://localhost:1313/blogs/what-is-bioinformatics/</link>
       <pubDate>Sun, 03 Apr 2022 23:15:00 +0700</pubDate>
-      <guid>http://localhost:1313/hangli/blogs/what-is-bioinformatics/</guid>
+      <guid>http://localhost:1313/blogs/what-is-bioinformatics/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;So you probably have heard of the term Bioinformatics before, but did not get the chance to learn more about what it is and what it can do.&lt;/p&gt;
 &lt;p&gt;In this article, I will be giving you a brief high-level overview of this exciting field of Bioinformatics. Thus, the article will be comprehensible to those coming from biology or computer backgrounds alike.&lt;/p&gt;

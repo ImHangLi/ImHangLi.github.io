@@ -1,5 +1,5 @@
 languageCode: en-us
-baseURL: "https://ImHangLi.github.io/hangli/"
+baseURL: "https://ImHangLi.github.io/"
 title: Hang Li
 
 pagination:
@@ -79,6 +79,11 @@ params:
       url: "https://www.linkedin.com/in/hang-li-3195532a7/"
     - name: github
       url: "https://github.com/ImHangLi"
+    - name: email
+      url: "mailto:hang.dev@outlook.com"
+    - name: cv 
+      url: "https://ImHangLi.github.io/cv.pdf"
+
 
   analytics:
     google:

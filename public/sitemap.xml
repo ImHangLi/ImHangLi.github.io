@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hangli/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hangli/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hangli/infographics/</loc>
+    <loc>http://localhost:1313/infographics/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hangli/blogs/</loc>
+    <loc>http://localhost:1313/blogs/</loc>
     <lastmod>2022-04-08T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hangli/blogs/how-to-master-streamlit-for-data-science/</loc>
+    <loc>http://localhost:1313/blogs/how-to-master-streamlit-for-data-science/</loc>
     <lastmod>2022-04-08T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hangli/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2022-04-06T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hangli/projects/reproducible-computational-drug-discovery/</loc>
+    <loc>http://localhost:1313/projects/reproducible-computational-drug-discovery/</loc>
     <lastmod>2022-04-06T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hangli/projects/erpred/</loc>
+    <loc>http://localhost:1313/projects/erpred/</loc>
     <lastmod>2022-04-05T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hangli/projects/acetylcholinesterase/</loc>
+    <loc>http://localhost:1313/projects/acetylcholinesterase/</loc>
     <lastmod>2022-04-04T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hangli/blogs/what-is-bioinformatics/</loc>
+    <loc>http://localhost:1313/blogs/what-is-bioinformatics/</loc>
     <lastmod>2022-04-03T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hangli/tags/first/</loc>
+    <loc>http://localhost:1313/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hangli/page/</loc>
+    <loc>http://localhost:1313/page/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hangli/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hangli/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

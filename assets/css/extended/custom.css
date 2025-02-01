@@ -1,0 +1,8 @@
+.logo img {
+    content: url("/images/coding.png");
+}
+
+/* Switch image in dark mode */
+.dark .logo img {
+    content: url("/images/coding-dark.png");
+} 

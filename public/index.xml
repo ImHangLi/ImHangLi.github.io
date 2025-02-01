@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hang Li</title>
-    <link>http://localhost:1313/hangli/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Hang Li</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Apr 2022 23:15:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/hangli/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/hangli/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
-      <guid>http://localhost:1313/hangli/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;In my daytime, I work as a Developer Advocate at a US Tech company.&lt;/p&gt;
 &lt;p&gt;At night, I&amp;rsquo;m a content creator developing tutorials in data science for the following platforms:&lt;/p&gt;
 &lt;ul&gt;
@@ -32,16 +32,16 @@
     </item>
     <item>
       <title>Infographics</title>
-      <link>http://localhost:1313/hangli/infographics/</link>
+      <link>http://localhost:1313/infographics/</link>
       <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
-      <guid>http://localhost:1313/hangli/infographics/</guid>
+      <guid>http://localhost:1313/infographics/</guid>
       <description>&lt;p&gt;I also create hand-drawn infographics and illustrations to summarize the key concepts in data science, machine learning and bioinformatics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to master Streamlit for Data Science</title>
-      <link>http://localhost:1313/hangli/blogs/how-to-master-streamlit-for-data-science/</link>
+      <link>http://localhost:1313/blogs/how-to-master-streamlit-for-data-science/</link>
       <pubDate>Fri, 08 Apr 2022 23:15:00 +0700</pubDate>
-      <guid>http://localhost:1313/hangli/blogs/how-to-master-streamlit-for-data-science/</guid>
+      <guid>http://localhost:1313/blogs/how-to-master-streamlit-for-data-science/</guid>
       <description>&lt;h1 id=&#34;preview&#34;&gt;Preview&lt;/h1&gt;
 &lt;h2 id=&#34;the-essential-streamlit-for-all-your-data-science-needs&#34;&gt;The essential Streamlit for all your data science needs&lt;/h2&gt;
 &lt;p&gt;To build a web app you’d typically use such Python web frameworks as Django and Flask. But the steep learning curve and the big time investment for implementing these apps present a major hurdle.&lt;/p&gt;
@@ -50,33 +50,33 @@
     </item>
     <item>
       <title>Towards reproducible computational drug discovery</title>
-      <link>http://localhost:1313/hangli/projects/reproducible-computational-drug-discovery/</link>
+      <link>http://localhost:1313/projects/reproducible-computational-drug-discovery/</link>
       <pubDate>Wed, 06 Apr 2022 23:15:00 +0700</pubDate>
-      <guid>http://localhost:1313/hangli/projects/reproducible-computational-drug-discovery/</guid>
+      <guid>http://localhost:1313/projects/reproducible-computational-drug-discovery/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;The reproducibility of experiments has been a long standing impediment for further scientific progress. Computational methods have been instrumental in drug discovery efforts owing to its multifaceted utilization for data collection, pre-processing, analysis and inference. This article provides an in-depth coverage on the reproducibility of computational drug discovery. This review explores the following topics: (1) the current state-of-the-art on reproducible research, (2) research documentation (e.g. electronic laboratory notebook, Jupyter notebook, etc.), (3) science of reproducible research (i.e. comparison and contrast with related concepts as replicability, reusability and reliability), (4) model development in computational drug discovery, (5) computational issues on model development and deployment, (6) use case scenarios for streamlining the computational drug discovery protocol. In computational disciplines, it has become common practice to share data and programming codes used for numerical calculations as to not only facilitate reproducibility, but also to foster collaborations (i.e. to drive the project further by introducing new ideas, growing the data, augmenting the code, etc.). It is therefore inevitable that the field of computational drug design would adopt an open approach towards the collection, curation and sharing of data/code.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ERpred: a web server for the prediction of subtype-specific estrogen receptor antagonists</title>
-      <link>http://localhost:1313/hangli/projects/erpred/</link>
+      <link>http://localhost:1313/projects/erpred/</link>
       <pubDate>Tue, 05 Apr 2022 23:15:00 +0700</pubDate>
-      <guid>http://localhost:1313/hangli/projects/erpred/</guid>
+      <guid>http://localhost:1313/projects/erpred/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;Estrogen receptors alpha and beta (ERα and ERβ) are responsible for breast cancer metastasis through their involvement of clinical outcomes. Estradiol and hormone replacement therapy targets both ERs, but this often leads to an increased risk of breast and endometrial cancers as well as thromboembolism. A major challenge is posed for the development of compounds possessing ER subtype specificity. Herein, we present a large-scale classification structure-activity relationship (CSAR) study of inhibitors from the ChEMBL database which consisted of an initial set of 11,618 compounds for ERα and 7,810 compounds for ERβ. The IC50 was selected as the bioactivity unit for further investigation and after the data curation process, this led to a final data set of 1,593 and 1,281 compounds for ERα and ERβ, respectively. We employed the random forest (RF) algorithm for model building and of the 12 fingerprint types, models built using the PubChem fingerprint was the most robust (Ac of 94.65% and 92.25% and Matthews correlation coefficient (MCC) of 89% and 76% for ERα and ERβ, respectively) and therefore selected for feature interpretation. Results indicated the importance of features pertaining to aromatic rings, nitrogen-containing functional groups and aliphatic hydrocarbons. Finally, the model was deployed as the publicly available web server called ERpred at &lt;a href=&#34;http://codes.bio/erpred&#34;&gt;http://codes.bio/erpred&lt;/a&gt; where users can submit SMILES notation as the input query for prediction of the bioactivity against ERα and ERβ.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Probing the origins of human acetylcholinesterase inhibition via QSAR modeling and molecular docking</title>
-      <link>http://localhost:1313/hangli/projects/acetylcholinesterase/</link>
+      <link>http://localhost:1313/projects/acetylcholinesterase/</link>
       <pubDate>Mon, 04 Apr 2022 23:15:00 +0700</pubDate>
-      <guid>http://localhost:1313/hangli/projects/acetylcholinesterase/</guid>
+      <guid>http://localhost:1313/projects/acetylcholinesterase/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;Alzheimer’s disease (AD) is a chronic neurodegenerative disease which leads to the gradual loss of neuronal cells. Several hypotheses for AD exists (e.g., cholinergic, amyloid, tau hypotheses, etc.). As per the cholinergic hypothesis, the deficiency of choline is responsible for AD; therefore, the inhibition of AChE is a lucrative therapeutic strategy for the treatment of AD. Acetylcholinesterase (AChE) is an enzyme that catalyzes the breakdown of the neurotransmitter acetylcholine that is essential for cognition and memory. A large non-redundant data set of 2,570 compounds with reported IC50 values against AChE was obtained from ChEMBL and employed in quantitative structure-activity relationship (QSAR) study so as to gain insights on their origin of bioactivity. AChE inhibitors were described by a set of 12 fingerprint descriptors and predictive models were constructed from 100 different data splits using random forest. Generated models afforded R2, Q2CV and Q2Ext values in ranges of 0.66–0.93, 0.55–0.79 and 0.56–0.81 for the training set, 10-fold cross-validated set and external set, respectively. The best model built using the substructure count was selected according to the OECD guidelines and it afforded R2, Q2CV and Q2Ext values of 0.92 ± 0.01, 0.78 ± 0.06 and 0.78 ± 0.05, respectively. Furthermore, Y-scrambling was applied to evaluate the possibility of chance correlation of the predictive model. Subsequently, a thorough analysis of the substructure fingerprint count was conducted to provide informative insights on the inhibitory activity of AChE inhibitors. Moreover, Kennard–Stone sampling of the actives were applied to select 30 diverse compounds for further molecular docking studies in order to gain structural insights on the origin of AChE inhibition. Site-moiety mapping of compounds from the diversity set revealed three binding anchors encompassing both hydrogen bonding and van der Waals interaction. Molecular docking revealed that compounds 13, 5 and 28 exhibited the lowest binding energies of −12.2, −12.0 and −12.0 kcal/mol, respectively, against human AChE, which is modulated by hydrogen bonding, π–π stacking and hydrophobic interaction inside the binding pocket. These information may be used as guidelines for the design of novel and robust AChE inhibitors.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What Is Bioinformatics</title>
-      <link>http://localhost:1313/hangli/blogs/what-is-bioinformatics/</link>
+      <link>http://localhost:1313/blogs/what-is-bioinformatics/</link>
       <pubDate>Sun, 03 Apr 2022 23:15:00 +0700</pubDate>
-      <guid>http://localhost:1313/hangli/blogs/what-is-bioinformatics/</guid>
+      <guid>http://localhost:1313/blogs/what-is-bioinformatics/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;So you probably have heard of the term Bioinformatics before, but did not get the chance to learn more about what it is and what it can do.&lt;/p&gt;
 &lt;p&gt;In this article, I will be giving you a brief high-level overview of this exciting field of Bioinformatics. Thus, the article will be comprehensible to those coming from biology or computer backgrounds alike.&lt;/p&gt;
@@ -84,9 +84,9 @@
     </item>
     <item>
       <title>My 1st post</title>
-      <link>http://localhost:1313/hangli/page/</link>
+      <link>http://localhost:1313/page/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/hangli/page/</guid>
+      <guid>http://localhost:1313/page/</guid>
       <description>Desc Text.</description>
     </item>
   </channel>
